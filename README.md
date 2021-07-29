@@ -14,5 +14,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayn0111034&label=Profile%20views&color=0e75b6&style=flat" alt="kayn0111034" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kayn0111034&show_icons=true&locale=en&layout=compact" alt="kayn0111034" /></p>
-![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayn0111034&count_private=true)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kayn0111034&show_icons=true&locale=en&count_private=true" alt="kayn0111034" /></p>
+
 
