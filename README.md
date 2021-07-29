@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Wesley
-#### I am a HS Junior from Hong Kong.
+<h1> Hi there 👋, my name is Wesley</h1>
+<h3> I am a HS Junior from Hong Kong.</h3>
 ![I am a HS Junior from Hong Kong.](https://github.com/kayn0111034)
 
 I'm Wesley Chui, a HS Junior from Hong Kong. I'm an avid programmer and I'm currently learning Java!
