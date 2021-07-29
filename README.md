@@ -12,7 +12,7 @@ I'm Wesley Chui, a HS Junior from Hong Kong. I'm an avid programmer and I'm curr
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kayn0111034&show_icons=true&locale=en&layout=compact&count_private=true" alt="kayn0111034" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayn0111034)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kayn0111034&show_icons=true&count_private=true)  
 
