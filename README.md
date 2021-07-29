@@ -1,6 +1,5 @@
 <h1> Hi there 👋, my name is Wesley</h1>
 <h3> I am a HS Junior from Hong Kong.</h3>
-![I am a HS Junior from Hong Kong.]
 
 I'm Wesley Chui, a HS Junior from Hong Kong. I'm an avid programmer and I'm currently learning Java!
 
@@ -12,8 +11,6 @@ I'm Wesley Chui, a HS Junior from Hong Kong. I'm an avid programmer and I'm curr
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kayn0111034)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/wesley-chui-86a864207/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayn0111034)](https://github.com/anuraghazra/github-readme-stats)
 
