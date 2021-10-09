@@ -16,6 +16,6 @@ I'm Wesley Chui, a HS Junior from Hong Kong. I'm an avid programmer and I'm curr
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kayn0111034&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kayn0111034)  
+<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kayn0111034)  -->
 
 ![Profile views](https://gpvc.arturio.dev/kayn0111034)  
