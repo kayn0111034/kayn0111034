@@ -1,7 +1,7 @@
 <h1> Hi there 👋, my name is Wesley</h1>
 <h3> I am a HS Junior from Hong Kong.</h3>
 
-I'm Wesley Chui, a HS Junior from Hong Kong. I'm an avid programmer and I'm currently learning Java and JavaScript!
+I'm Wesley Chui, a HS Junior from Hong Kong. I'm an avid programmer and I'm currently learning Java!
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Skills: Python3, HTML, CSS, Bootstrap, Git</h4>
